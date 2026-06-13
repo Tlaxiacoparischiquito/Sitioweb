@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px ;
+	color:#F0F;
+	line-height:18px;
+	padding:3px;
+	
+	}
+
+
+.navegacion{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	color:#FFF;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	background-color:#F3F;
+	display:block;
+	width:140px;
+	padding:8px;
+	
+	
+	}
+.navegacion:hover{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:16px;
+	color:#666;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	background-color:#F3F;
+	display:block;
+	width:140px;
+	padding:8px;
+	
+	
+	}
+
+.centrar{
+	width:800px;
+	margin:0 auto;
+	color:#000;
+	
+	}
+	.TITULO{
+		font-family:"Times New Roman", Times, serif;
+		font-size:20px;
+		line-height:18px;
+		font-weight:bold;
+		color:#303;
+		text-align:center;
+		
+		}
+
+		.CURSIVA{
+		font-style:italic;
+		margin-left:2px;
+		line-height:14px;
+		color:#333		
+			}
+		.resaltado{
+			font-family:Verdana, Geneva, sans-serif;
+			font-size:12px;
+			line-height:18px;
+			font-weight:bold;
+			color:#90F
+			}
